@@ -13,8 +13,8 @@ problematic in programming: searching the optimal solution among a huge set of p
 in a respectable timing. In this particular project, you will have to find a way to
 assemble a given Tetriminos set altogether in the smallest possible square.
 ```
-> Project made in group
-> credits to my incredible mate Alexis :
+>Project made in group.
+>Credits to my incredible mate Alexis :
 >* Alexis Paraboschi [**ccharrie**](https://github.com/Radaxx)
 ## author
 
