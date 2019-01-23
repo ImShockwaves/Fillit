@@ -1,25 +1,17 @@
-# rentree
+<h1 align=center>Fillit</h1>
+<h3>Program making the smallest square with tetris forms given.</h3>
 
-Beginner projects from 42.
+<p align=center float="left">
+    <a href="http://www.42.fr/"><img src="https://www.usine-digitale.fr//mediatheque/4/6/0/000643064/42.png" height="200" width="auto"></a>
+ </p>
 
-Projects : 42commandements, piscine_reloaded, libft, fillit, get_next_line.
+### Fillit
+***
+```
+Fillit is a project that let you discover and/or familiarize yourself with a recurring
+problematic in programming: searching the optimal solution among a huge set of possibilities, in a respectable timing. In this particular project, you will have to find a way to
+assemble a given Tetriminos set altogether in the smallest possible square.
+```
+## author
 
-################################### 42commandements ###################################
-
-Bienvenue à 42, jeune cadet ! Avant de commencer ton aventure, il est important de comprendre ce que l'on attend de toi tout au long de ta scolarité.
-
-#################################### piscine_reloaded ####################################
-
-Review the basics with a set of cherry-picked assignments from the selection Piscine.
-
-######################################### libft ########################################
-
-Ce premier projet en tant qu'étudiant de 42 va vous faire consolider vos acquis de piscine. Vous allez recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires que vous réutiliserez tout au long de votre cursus.
-
-######################################### fillit ########################################
-
-Fillit will allow you to discover and get familiar with a recurring programming situation: finding the best solution among a huge number of possibilities within an acceptable time span. For this project, you are expected to fit Tetriminos together to shape the smallest possible square.
-
-##################################### Get_next_line #####################################
-
-Qu'il s'agisse d'un fichier, de l'entrée standard, ou même plus tard d'une connexion réseau, vous aurez toujours besoin de lire du contenu ligne par ligne. Il est donc temps de vous attaquer à cette fonction, indispensable pour un certain nombre de vos prochains projets.
+By [**ccharrie**](https://profile.intra.42.fr/users/ccharrie)
