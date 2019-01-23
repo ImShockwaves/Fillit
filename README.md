@@ -15,7 +15,7 @@ assemble a given Tetriminos set altogether in the smallest possible square.
 ```
 >Project made in group.
 >Credits to my incredible mate Alexis :
->* Alexis Paraboschi [**ccharrie**](https://github.com/Radaxx)
+>* Alexis Paraboschi [**aparabos**](https://github.com/Radaxx)
 ## author
 
 By [**ccharrie**](https://profile.intra.42.fr/users/ccharrie)
